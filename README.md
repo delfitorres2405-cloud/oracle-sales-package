@@ -1,7 +1,7 @@
 # oracle-sales-package
 Paquete PL/SQL para la gestión de ventas con control de órdenes, alta de ítems y reportes de clientes. Incluye manejo de excepciones y sobrecarga de procedimientos.
 
-✨ Esta actividad fue extraída de una actividad de la materia Laboratorio II de la carrera **Ingeniería en Ciencia de Datos**.
+✨ Esta consigna fue extraída de una actividad de la materia Laboratorio II de la carrera **Ingeniería en Ciencia de Datos**.
 
 ## Actividad:
 Crear un paquete PA_VENTAS que contenga lo siguiente:
